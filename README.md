@@ -55,5 +55,5 @@ add_action('save_post', 'wpds_check_thumbnail');
             delete_transient( &quot;has_post_thumbnail&quot; );
         }
 
-    }
+    }?>
     ```
